@@ -33,3 +33,7 @@ This repository documents my journey learning Git and GitHub from scratch.
 | `git push` | Upload commits to GitHub |
 | `git branch` | List branches |
 | `git switch` | Switch branches |
+
+## Current Status
+
+Learning Git workflows and remote collaboration.
